@@ -1,5 +1,5 @@
 # Tabela da Champions League
-## Segundo projeto desenvolvido na introdução ao CSS.
+### Segundo projeto desenvolvido na introdução ao CSS.
 #### Curso/Cadeira: Introdução ao Desenvolvimento Web, Ulbra Torres 2023/01.
 
 ### O que usei?
