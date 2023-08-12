@@ -1,5 +1,5 @@
 # Lista de afazeres
-## Segundo projeto desenvolvido por mim, para a primeira avaliação do curso de ADS Ulbra Torres 2023/01
+## Segundo projeto desenvolvido por mim na introdução do CSS ao HTML, para a primeira avaliação do curso de ADS Ulbra Torres 2023/01
 
 ### O que usei?
 
