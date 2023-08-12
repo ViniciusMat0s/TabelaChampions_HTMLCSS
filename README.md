@@ -1,5 +1,5 @@
 # Lista de afazeres
-## Projeto desenvolvido para avaliação semestral do curso de ADS Ulbra Torres 2023/01
+## Segundo projeto desenvolvido por mim, para a primeira avaliação do curso de ADS Ulbra Torres 2023/01
 
 ### O que usei?
 
