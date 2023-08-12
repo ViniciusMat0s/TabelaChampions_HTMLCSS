@@ -4,7 +4,7 @@
 
 ### O que usei?
 
-##### · HTML;
+##### · HTML
 ##### · CSS
 
 ![Screenshot_1](https://github.com/ViniciusMat0s/TabelaChampions_HTMLCSS/assets/128171517/00828262-0819-4eec-be94-9a622ea94717)
